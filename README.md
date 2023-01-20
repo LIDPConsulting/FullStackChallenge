@@ -1,5 +1,11 @@
 # Getting Started
 
+Start by cloning or using the repository as a template.
+
+```shell
+git clone git@github.com:LIDPConsulting/FullStackChallenge.git
+```
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
